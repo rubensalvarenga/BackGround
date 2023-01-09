@@ -1,0 +1,35 @@
+h1{
+    font-size: 80px;
+    color: #cccccc;
+    font-style: italic;
+    text-align: center;
+}
+h2{
+    font-size:50px;
+    text-align: center;
+}
+
+body{
+    color:aqua;
+    text-align: center;
+}
+
+#botao{
+    text-align: center;
+    border: 12px;
+    border-radius: 3px;
+    border-color: aliceblue;
+    padding: 4px;
+    font-size: 40px;
+    width: 320px;
+    
+}
+
+#fundo{
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    width: 100vw;
+    height: 100vh;
+    margin: 0 auto;
+}
